@@ -7,7 +7,7 @@
     <ProjectGuid>{34493170-B6B2-4553-9EC5-B53BC6F2724D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_2_CriandoVariaveis</RootNamespace>
-    <AssemblyName>_2_CriandoVariaveis</AssemblyName>
+    <AssemblyName>2-CriandoVariaveis</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
