@@ -21,8 +21,8 @@ namespace _4_ConversoesEOutrosTiposNumericos
             Console.WriteLine(salarioEmInteiro);
 
             // int ocupa 32 bits
-            int idade = 13000000000; // dá erro pois não suporta um valor tão grande
-            Console.WriteLine(idade);
+            // int idade = 13000000000; // dá erro pois não suporta um valor tão grande
+            // Console.WriteLine(idade);
 
             // long ocupa mais espaço na memória - 64 bits
             long idade2 = 13000000000; // não dá erro
