@@ -28,7 +28,7 @@ namespace _3_CriandoVariaveisPontoFlutuante
             Console.WriteLine("5 / 3" + idade); // retorna idade truncada
 
             idade = 5.0 / 3;
-            Console.WriteLine("5.0 / 3", +idade); // retorna idade com casas decimais
+            Console.WriteLine("5.0 / 3", + idade); // retorna idade com casas decimais
 
             Console.WriteLine("A execução acabou. Tecle enter para sair...");
 
