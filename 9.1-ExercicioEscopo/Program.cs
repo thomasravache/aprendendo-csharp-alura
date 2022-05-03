@@ -22,5 +22,7 @@ class Programa
         if (salario >= 3751.01 && salario <= 4664.0) {
             Console.WriteLine("IR de 222.5% e pode deduzir 636,00");
         }
+
+        Console.ReadLine();
     }
 }
