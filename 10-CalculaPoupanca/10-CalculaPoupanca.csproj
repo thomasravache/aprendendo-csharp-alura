@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{573F6AD6-8A74-42C8-A905-85A1FD1B6A54}</ProjectGuid>
+    <ProjectGuid>{360D7C22-38EF-4AC4-A3CF-CC3AE5428CDE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_9._1_ExercicioEscopo</RootNamespace>
-    <AssemblyName>9.1-ExercicioEscopo</AssemblyName>
+    <RootNamespace>_10_CalculaPoupanca</RootNamespace>
+    <AssemblyName>10-CalculaPoupanca</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
